@@ -1,0 +1,20 @@
+body {
+    background: darkolivegreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightgoldenrodyellow;
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+}
+
+section {
+    width: 900px;
+    margin: 0% auto;
+}
+
+img {
+    float: left;
+    margin-right: 40px;
+}
